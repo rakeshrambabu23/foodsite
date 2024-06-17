@@ -6,6 +6,7 @@
     scroll-behavior: smooth;
     font-family: 'Josefin Sans', sans-serif;
 }
+/*
 html::-webkit-scrollbar-track{
     background: transparent;
 }
@@ -56,6 +57,7 @@ html::-webkit-scrollbar{
 
 /* Home Section Start */
 .home{
+    background-color: bisque;
     width: 100%;
     height: 100vh;
     padding: 5px 11% 80px;
@@ -104,6 +106,7 @@ html::-webkit-scrollbar{
 
 /* Top Section Start */
 .top-section{
+    background-color: bisque;
     padding: 10px 11% 100px;
 }
 .top-section h5{
@@ -140,6 +143,7 @@ html::-webkit-scrollbar{
 
 /* Our Menu Strat */
 .menu{
+    background-color: bisque;
     padding: 100px 11% 100px;
 }
 .menu h3{
@@ -178,6 +182,7 @@ html::-webkit-scrollbar{
 
 /* Order Section Start */
 .order{
+    background-color: bisque;
     padding: 100px 11% 100px;
 }
 .heading{
@@ -214,6 +219,7 @@ html::-webkit-scrollbar{
 
 /* Review Section Start */
 .review{
+    background-color: bisque;
     padding: 100px 11% 100px;
 }
 .review .card{
@@ -255,6 +261,7 @@ html::-webkit-scrollbar{
 
 /* Contact Section Start */
 .contact{
+    background-color: bisque;
     padding: 100px 11% 100px;
 }
 .contact .col-md-5{
